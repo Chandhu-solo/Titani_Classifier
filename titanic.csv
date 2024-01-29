@@ -1,0 +1,6 @@
+Pclass,Gender,Age,SibSp,Parch,Fare,Survived
+1,female,25,1,2,200.0,1
+2,male,30,0,1,50.0,0
+3,female,22,3,0,10.0,1
+1,male,35,1,1,150.0,0
+2,female,28,0,0,80.0,1
